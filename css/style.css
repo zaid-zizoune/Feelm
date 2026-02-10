@@ -52,6 +52,10 @@ header .container nav ul li a{
 header .container nav ul li a :hover{
     color: red;
 }
+
+
+
+
 main .container {
     display: flex;
     flex-direction: column;
@@ -63,10 +67,10 @@ main .container .main{
     display: flex;
     flex-direction: column;
     margin-top: 120px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     align-items: center;
 }
-main .container .main span{
+main .container .main .magic_tit{
     font-size: 13px;
     font-family: "Roboto", sans-serif;
     color: goldenrod;
@@ -81,6 +85,11 @@ main .container .main h2{
      font-family:  "Momo Trust Display", sans-serif;
     color: white;
     margin-top: 40px;
+}
+main .container .main h2 .movie{
+    font-size: 50px;
+     font-family:  "Momo Trust Display", sans-serif;
+    color: red;
 }
 main .container .main P{
     font-size: 20px;
@@ -99,7 +108,7 @@ main .container .main .home_button button {
     width:auto;
     border: none;
     border-radius: 20px;
-    margin:0px 30px;
+    margin:0px 20px;
 }
 main .container .main .home_button button a{
     text-decoration-line: none;
@@ -114,4 +123,69 @@ main .container .main .home_button button.start{
 main .container .main .home_button button.start:hover{
     background: white;
     color: red;
+}
+main .container .main .home_button button.about_btn a{
+    color: red;
+
+}
+main .container .main .home_button button.about_btn:hover{
+    background-color: #cd0000;
+}
+main .container .home_image img{
+    margin: 0px;
+    height: 500px;
+    width: 800px;
+}
+
+
+
+
+
+
+footer{
+    background-color: black;
+    margin-top: 30px;
+
+}
+footer .container h3{
+    font-size: 50px;
+    font-family:"Bebas Neue", sans-serif ;
+    color: white;
+    margin: 50px 0px 10px 0px;
+}
+footer .container p{
+    font-size: 20px;
+    color: gray;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 30px;
+}
+footer .container button{
+     padding: 10px 25px;
+    color: white;
+    width:auto;
+    border: none;
+    border-radius: 20px;
+    margin:0px 15px;
+}
+footer .container button a{
+    font-size: 20px;
+   font-family: "Bebas Neue", sans-serif;
+    text-decoration-line: none;
+    color: red;
+}
+footer .container .footer-bottom{
+    display: flex;
+    width: 100vh;
+    margin: 20px auto 0px auto;
+    justify-content: space-between;
+    background-color: #141414;
+}
+footer .container .footer-bottom p{
+    font-size: 15px;
+    color: gray;
+    font-family: "Roboto", sans-serif;
+}
+footer .container .footer-bottom nav ul{
+    display: flex;
+    list-style: none;
 }
