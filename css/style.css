@@ -5,7 +5,7 @@ box-sizing: border-box;
 font-family: sans-serif;
 }
 body{
-   background-image: linear-gradient(   78deg,   #cd0000 1% , black 25% 75% , #cd0000 100%);
+   background-color: black;
     color: white;
 }
 header {
@@ -32,25 +32,26 @@ header .container .logo h1{
 }
 header .container nav{
     margin-right: 150px;
-     text-align: center;
+    text-align: center;
 }
-header .container nav ul{
+header .container .nav ul{
     display: flex;
+    gap: 40px;
     list-style: none;
     align-items: center;
     text-align: center;
 }
-header .container nav ul li{
-    margin: 0 20px;
-}
-header .container nav ul li a{
+header .container .nav ul li a{
+    display: inline-block;
     text-decoration-line: none;
-    font-size: 25px;
+    font-size: 20px;
       font-family: "Bebas Neue", sans-serif;
       color: white;
+      transition: transform 0.3s ease, color 0.3s ease;
 }
-header .container nav ul li a :hover{
+header .container .nav a:hover{
     color: red;
+    transform: scale(1.1);
 }
 
 
@@ -99,59 +100,83 @@ main .container .main P{
      text-align: center;
      color: gray;
 }
-main .container .main .home_button{
-     margin-top: 40px;
+.home_button {
+    display: flex;
+    gap: 30px;
+margin-top: 40px ;
 }
-main .container .main .home_button button {
-    padding: 10px 25px;
-    color: white;
-    width:auto;
-    border: none;
-    border-radius: 20px;
-    margin:0px 20px;
+ .home_button a{
+color: red;
+text-decoration: none;
+font-size: 25px;
+font-family: "Bebas Neue", sans-serif;
+border: 2px solid red;
+border-radius: 20px;
+padding: 5px 10px;
+transition: background 0.5s ease;
 }
-main .container .main .home_button button a{
-    text-decoration-line: none;
-    color: white;
-    font-size: 20px;
-     font-family: "Bebas Neue", sans-serif;
-}
-main .container .main .home_button button.start{
-    color: white;
-    background: red;
-}
-main .container .main .home_button button.start:hover{
-    background: white;
-    color: red;
-}
-main .container .main .home_button button.about_btn a{
-    color: red;
+ .home_button a:hover{
+    background-color: red;
+    color: black;
+    }
+main .container .home_image{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+    width: 80%;
 
 }
-main .container .main .home_button button.about_btn:hover{
-    background-color: #cd0000;
-}
+
 main .container .home_image img{
-    margin: 0px;
-    height: 500px;
-    width: 800px;
+    width: 100%;
+    transition: 0.5s ease;
 }
-
-
-
-
+.home_image .content{
+ width: 90%;
+position: absolute;
+inset: 0;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+text-align: left;
+padding: 20px;
+opacity: 0;
+transition: 0.5s ease;
+}
+.home_image:hover img{
+    filter: blur(5px);
+    transform: scale(1.1);
+}
+.home_image:hover .content{
+    opacity: 1;
+}
+.home_image .content h3{
+    font-size: 40px;
+    font-family: "Momo Trust Display", sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+.home_image .content p{
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
 
 
 footer{
-    background-color: black;
-    margin-top: 30px;
+    background-color: #141414;
+    margin-top: 100px;
 
 }
 footer .container h3{
     font-size: 50px;
     font-family:"Bebas Neue", sans-serif ;
     color: white;
-    margin: 50px 0px 10px 0px;
+    margin: 80px 0px 10px 0px;
 }
 footer .container p{
     font-size: 20px;
@@ -159,33 +184,53 @@ footer .container p{
     font-family: "Roboto", sans-serif;
     margin-bottom: 30px;
 }
-footer .container button{
-     padding: 10px 25px;
-    color: white;
-    width:auto;
-    border: none;
-    border-radius: 20px;
-    margin:0px 15px;
+footer .container .footer_button{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 10px 0px 30px 0px;
 }
-footer .container button a{
-    font-size: 20px;
-   font-family: "Bebas Neue", sans-serif;
-    text-decoration-line: none;
+footer .container .footer_button a{
+color: black;
+background-color: red;
+text-decoration: none;
+font-size: 25px;
+font-family: "Bebas Neue", sans-serif;
+border-radius: 20px;
+padding: 8px 15px;
+transition: background 0.5s ease;
+}
+footer .container .footer_button a:hover{
+    background-color: black;
     color: red;
+    border: 1px solid red;
 }
-footer .container .footer-bottom{
+footer .container .footer_links{
     display: flex;
-    width: 100vh;
-    margin: 20px auto 0px auto;
+    align-items: center;
     justify-content: space-between;
-    background-color: #141414;
+    width: 100%;
+    padding: 3px 150px;
+    margin-top: 30px;
+    background-color: #1F1F1F;
 }
-footer .container .footer-bottom p{
+footer .container .footer_links p{
     font-size: 15px;
+    margin: 0%;
     color: gray;
     font-family: "Roboto", sans-serif;
 }
-footer .container .footer-bottom nav ul{
+footer .container .footer_links nav ul{
     display: flex;
     list-style: none;
+    gap: 20px;
+}
+footer .container .footer_links nav ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+    transition: color 0.3s ease;
+}
+footer .container .footer_links nav ul li a:hover{
+    color: red;
 }
