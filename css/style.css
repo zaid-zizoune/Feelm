@@ -82,7 +82,7 @@ main .container .main .magic_tit{
     align-items: center;
 }
 main .container .main h2{
-    font-size: 50px;
+    font-size: 60px;
      font-family:  "Momo Trust Display", sans-serif;
     color: white;
     margin-top: 40px;
@@ -106,18 +106,19 @@ main .container .main P{
 margin-top: 40px ;
 }
  .home_button a{
-color: red;
+color: black;
+background-color: red;
 text-decoration: none;
-font-size: 25px;
+font-size: 22px;
 font-family: "Bebas Neue", sans-serif;
-border: 2px solid red;
 border-radius: 20px;
-padding: 5px 10px;
+padding: 7px 13px;
 transition: background 0.5s ease;
 }
  .home_button a:hover{
-    background-color: red;
-    color: black;
+    background-color: black;
+    color:red;
+    border: 2px solid red;
     }
 main .container .home_image{
     position: relative;
@@ -171,6 +172,12 @@ footer{
     background-color: #141414;
     margin-top: 100px;
 
+}
+footer .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 footer .container h3{
     font-size: 50px;
