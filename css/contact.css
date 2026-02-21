@@ -12,8 +12,8 @@ text-align: start;
 }
 .main .container .tit h2{
     color: white;
-    font-family:"Momo Trust Display", sans-serif ;
-    font-size: 50px;
+    font-family: "Momo Trust Display", sans-serif;
+     font-size: 50px;
     margin-bottom: 20px;
 }
 .tit hr{
@@ -35,10 +35,78 @@ text-align: start;
 }
 .main .container .contact_info form{
     display: flex;
+    color: crimson;
     flex-direction: column;
     border: 2px solid red;
     border-radius: 10px;
     width: 60%;
-    height: 300px;
+    height: 500px;
     padding: 10px;
+    overflow: hidden;
+}
+.main .container .contact_info form label{
+    font-family: "Momo Trust Display", sans-serif;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.main .container .contact_info form input{
+    margin:0px 15px 15px 15px;
+    width: 90%;
+    padding: 15px;
+    background: transparent;
+    border: none;
+    font-family:  "Bebas Neue", sans-serif;
+    font-size: 20px ;
+    background-color: #1F1F1F;
+    color: white;
+}
+.main .container .contact_info form textarea{
+    height: 90%;
+    margin:0px 15px 15px 15px;
+    width: 90%;
+    padding: 15px;
+    background: transparent;
+    border: none;
+    font-family:  "Bebas Neue", sans-serif;
+    font-size: 20px ;
+    background-color: #1F1F1F;
+    color: white;
+}
+.contact_info form button{
+     margin:20px 15px 15px 15px;
+    width: 90%;
+    padding: 15px;
+    background: transparent;
+    border: none;
+    border-radius: 10px;
+    font-family:  "Bebas Neue", sans-serif;
+    font-size: 25px ;
+    background: red;
+    color: white;
+}
+.contact_info form button:hover{
+     background: white;
+    color: red;
+}
+.main .container .social_media {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+}
+.main .container .social_media  ul{
+    display: flex;
+     gap: 15px;
+}
+.main .container .social_media  ul li{
+    font-size: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+.main .container .social_media  ul li a{
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.main .container .social_media  ul li a:hover{
+    color: red;
 }

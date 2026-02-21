@@ -106,19 +106,18 @@ main .container .main P{
 margin-top: 40px ;
 }
  .home_button a{
-color: black;
+color: white;
 background-color: red;
 text-decoration: none;
 font-size: 22px;
 font-family: "Bebas Neue", sans-serif;
-border-radius: 20px;
-padding: 7px 13px;
+border-radius: 25px;
+padding: 10px 25px;
 transition: background 0.5s ease;
 }
  .home_button a:hover{
-    background-color: black;
+    background-color: white;
     color:red;
-    border: 2px solid red;
     }
 main .container .home_image{
     position: relative;
