@@ -1,0 +1,128 @@
+*{
+margin: 0;
+padding:0 ;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+body{
+   background-color: black;
+    color: white;
+}
+.main .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.main .container .quiz_header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    width: 100%;
+}
+.quiz_header .progress_info{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+
+.quiz_header .progress_info span{
+     color: gray;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+.quiz_header .progress_bar{
+    width: 60%;
+    height: 7px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: gray;
+    overflow: hidden;
+}
+.quiz_header .progress_bar .progress_fill{
+    height: 100%;
+    width: 20%;
+    background-color: red;
+    border-radius: 10px;
+    transition: width 0.5s ease;
+}
+.question{
+    margin-top: 25px;
+
+}
+.question h1{
+    font-size: 50px;
+    font-family:"Bebas Neue", sans-serif ;
+    color: white;
+}
+.answers_section{
+    display: grid;
+    width: 60%;
+    height: 300px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    
+}
+.answers_section button{
+    height: 130px;
+    background-color: #141414;
+    border-radius: 10px;
+    color: white;
+}
+.answers_section button:hover{
+    color: red;
+    border: 2px solid red;
+    transition: background 0.5s ease;
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.navigation button{
+    padding: 7px 30px;
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family:"Bebas Neue", sans-serif ;
+}
+.navigation button:hover{
+    background-color: red;
+    color: black;
+    transition: background 0.5s ease;
+}
+footer {
+    background-color: #141414;
+    margin-top: 100px;
+}
+footer .container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 30px 20px;
+    align-items: center;
+}
+footer .container h1{
+    color: red;
+    font-size: 20px;
+    font-family:"Momo Trust Display", sans-serif;
+} 
+footer .container .home_link ul li{
+    list-style: none;
+}
+footer .container .home_link a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+     transition: transform 0.3s ease;
+}
+footer .container .home_link a:hover{
+    color: red;
+    transform: scale(1.1);
+    
+}
