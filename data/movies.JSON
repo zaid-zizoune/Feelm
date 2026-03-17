@@ -1,0 +1,257 @@
+[
+  {
+    "title": "SAVING PRIVATE RYAN",
+    "poster": "",
+    "genre": "Action",
+    "theme": "War",
+    "duration": "2 hr 49 min",
+    "year": "1998",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "",
+    "rating":8.6,
+    "description": " During WWII, a squad is sent behind enemy lines to find and bring home Private Ryan, after his brothers are killed in action. Epic battle scenes, realistic combat depiction."
+  },
+  {
+    "title": "1917",
+    "poster": "",
+    "genre": "Action",
+    "theme": "War",
+    "duration": " 1 hr 59 min",
+    "year": "2019",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "",
+    "rating":8.3 ,
+    "description": "Two soldiers are tasked with delivering a crucial message during WWI. Filmed as a single continuous shot with intense battlefield sequences."
+  },
+  {
+    "title": "APOCALYPSE NOW",
+    "poster": "",
+    "genre": "Action",
+    "theme": "War",
+    "duration": " 2 hr 27 min",
+    "year": "",
+    "language": "English",
+    "platform": "HBO Max",
+    "watchLink": "",
+    "rating":8.4 ,
+    "description": "A journey through the Vietnam War to assassinate a rogue colonel. Combines psychological tension with intense combat scenes and helicopter warfare."
+  },
+  
+
+
+
+  {
+    "title": "Top Gun: Maverick",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkNDMtMjc3NDA1YjNhZjY3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Action, Drama",
+    "theme": "Military",
+    "duration": "130 min",
+    "year": "2022",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/top-gun-maverick",
+    "rating": 8.3,
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a highly dangerous mission."
+  },
+  {
+    "title": "Lone Survivor",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NjUzNTk5M15BMl5BanBnXkFtZTgwNTU1MDk2MDE@._V1_.jpg",
+    "genre": "Action, Biography, Drama",
+    "theme": "Military",
+    "duration": "121 min",
+    "year": "2013",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/lone-survivor",
+    "rating": 7.5,
+    "description": "Marcus Luttrell and his Navy SEAL team are left to fight for their lives in the mountains of Afghanistan after a covert mission to capture a Taliban leader goes terribly wrong."
+  },
+  {
+    "title": "The Hunt for Red October",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMzA1NDUyNTheQTJeQWpwZ15BbWU4MDcwMjg4MTEx._V1_.jpg",
+    "genre": "Action, Adventure, Thriller",
+    "theme": "Military",
+    "duration": "135 min",
+    "year": "1990",
+    "language": "English, Russian",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-hunt-for-red-october",
+    "rating": 7.5,
+    "description": "In November 1984, the Soviet Union's best submarine captain violates orders and heads for the U.S. in a stealth sub. A CIA analyst must prove he is trying to defect, not start a war."
+  },
+
+
+
+  
+  {
+    "title": "Casino Royale",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhZi00NWFiLThlZTctNjMwZjIzOTMzYzViXkEyXkFqcGdeQXVyMDQxNDEzMw@@._V1_.jpg",
+    "genre": "Action, Adventure, Thriller",
+    "theme": "Spy",
+    "duration": "144 min",
+    "year": "2006",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/casino-royale",
+    "rating": 8.0,
+    "description": "After earning 00 status and a licence to kill, secret agent James Bond sets out on his first mission as 007 to defeat a private banker funding terrorists in a high-stakes game of poker."
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtODM5OS00OUUzLTg5YTUtNDMwMTE2M2IyMzBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Action, Mystery, Thriller",
+    "theme": "Spy",
+    "duration": "115 min",
+    "year": "2007",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-bourne-ultimatum",
+    "rating": 8.0,
+    "description": "Jason Bourne dodges a ruthless C.I.A. official and his agents from a new assassination program while searching for the origins of his life as a trained killer."
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_.jpg",
+    "genre": "Action, Adventure, Thriller",
+    "theme": "Spy",
+    "duration": "147 min",
+    "year": "2018",
+    "language": "English",
+    "platform": "Apple TV / Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/mission-impossible-fallout",
+    "rating": 7.7,
+    "description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission goes wrong to prevent a global nuclear attack."
+  },
+
+
+
+  {
+    "title": "The Dark Knight",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "genre": "Action, Crime, Drama",
+    "theme": "Superhero",
+    "duration": "152 min",
+    "year": "2008",
+    "language": "English",
+    "platform": "Max / Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-dark-knight",
+    "rating": 9.0,
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "genre": "Action, Adventure, Sci-Fi",
+    "theme": "Superhero",
+    "duration": "149 min",
+    "year": "2018",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/avengers-infinity-war",
+    "rating": 8.4,
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+    "genre": "Animation, Action, Adventure",
+    "theme": "Superhero",
+    "duration": "117 min",
+    "year": "2018",
+    "language": "English",
+    "platform": "Apple TV",
+    "watchLink": "https://www.justwatch.com/movie/spider-man-into-the-spider-verse",
+    "rating": 8.4,
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+  },
+
+
+
+  
+  {
+    "title": "The Matrix",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Action, Sci-Fi",
+    "theme": "Martial Arts",
+    "duration": "136 min",
+    "year": "1999",
+    "language": "English",
+    "platform": "Max / Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-matrix",
+    "rating": 8.7,
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers, using advanced martial arts."
+  },
+  {
+    "title": "Ip Man",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTQ5NV5BMl5BanBnXkFtZTcwMzk0ODk3Mw@@._V1_.jpg",
+    "genre": "Action, Biography, Drama",
+    "theme": "Martial Arts",
+    "duration": "106 min",
+    "year": "2008",
+    "language": "Cantonese, Japanese, Mandarin",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/ip-man",
+    "rating": 8.0,
+    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home and use his Wing Chun skills to defend his people."
+  },
+  {
+    "title": "The Raid: Redemption",
+    "poster": "https://m.media-amazon.com/images/M/MV5MDA4ODkwNDYtNjA2Mi00ZTEyLWE2MDYtNTMyNDIyMTM0YjM1XkEyXkFqcGdeQXVyMTA0MTE1MzMy._V1_.jpg",
+    "genre": "Action, Crime, Thriller",
+    "theme": "Martial Arts",
+    "duration": "101 min",
+    "year": "2011",
+    "language": "Indonesian",
+    "platform": "Hulu",
+    "watchLink": "https://www.justwatch.com/movie/the-raid-redemption",
+    "rating": 7.6,
+    "description": "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers, forcing them to fight their way through every floor to survive."
+  },
+
+
+
+  {
+    "title": "Gladiator",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MmVlLTgxODIyOTEyZmVmZTI5Njc0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+    "genre": "Action, Adventure, Drama",
+    "theme": "Revenge",
+    "duration": "155 min",
+    "year": "2000",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/gladiator",
+    "rating": 8.5,
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "title": "Oldboy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "genre": "Action, Drama, Mystery",
+    "theme": "Revenge",
+    "duration": "120 min",
+    "year": "2003",
+    "language": "Korean",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/oldboy",
+    "rating": 8.4,
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days to get his revenge."
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genre": "Action, Crime, Thriller",
+    "theme": "Revenge",
+    "duration": "111 min",
+    "year": "2003",
+    "language": "English",
+    "platform": "Prime Video / Apple TV",
+    "watchLink": "https://www.justwatch.com/movie/kill-bill-vol-1",
+    "rating": 8.2,
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her and attempted to murder her on her wedding day."
+  }
+
+
+
+]

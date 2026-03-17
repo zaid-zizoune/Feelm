@@ -7,6 +7,11 @@ font-family: sans-serif;
 body{
    background-color: black;
     color: white;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+}
+body.loaded {
+    opacity: 1;
 }
 .main .container {
     display: flex;

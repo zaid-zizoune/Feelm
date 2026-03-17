@@ -1,11 +1,11 @@
 // ======== Themes حسب نوع الفيلم ========
 const themesByGenre = {
-Action: ["War", "Military", "Spy", "Superhero", "Martial Arts", "Revenge"],
-Thriller: ["Crime", "Mystery", "Psychological", "Political", "Survival", "Conspiracy"],
-Drama: ["Romance", "Family", "Friendship", "Life Struggles", "Sport", "Biography"],
-Comedy: ["Romantic Comedy", "Teen Comedy", "Dark Comedy", "Buddy Comedy", "Satire", "Parody"],
-Horror: ["Supernatural", "Psychological Horror", "Slasher", "Zombie", "Demon Possession", "Monster"],
-Sci_Fi: ["Space", "Aliens", "Artificial Intelligence", "Time Travel", "Dystopia", "Cyberpunk"]
+  Action: ["War", "Military", "Spy", "Superhero", "Martial Arts", "Revenge"],
+  Thriller: ["Crime", "Mystery", "Psychological", "Political", "Survival", "Conspiracy"],
+  Drama: ["Romance", "Family", "Friendship", "Life Struggles", "Sport", "Biography"],
+  Comedy: ["Romantic Comedy", "Teen Comedy", "Dark Comedy", "Buddy Comedy", "Satire", "Parody"],
+  Horror: ["Supernatural", "Psychological Horror", "Slasher", "Zombie", "Demon Possession", "Monster"],
+  Sci_Fi: ["Space", "Aliens", "Artificial Intelligence", "Time Travel", "Dystopia", "Cyberpunk"]
 };
 
 // ======== إعداد الأسئلة ========
@@ -49,11 +49,11 @@ function showQuestion() {
       btn.textContent = q.answers[i];
       btn.onclick = () => {
         userAnswers[currentQuestion] = q.answers[i];
-        progress += 17;
+        progress += 17; // زيادة Progress تدريجي
         if(progress > 100) progress = 100;
         nextQuestion();
       };
-    }else{
+    } else {
       btn.style.display = "none";
     }
   });
@@ -71,18 +71,25 @@ function nextQuestion() {
   }
 
   currentQuestion++;
-  if(currentQuestion < questions.length){
-    showQuestion();
-  }else{
-    showResult();
+
+  // إذا وصلنا للسؤال الأخير + تجاوزه
+  if(currentQuestion >= questions.length){
+    // حفظ الإجابات
+    localStorage.setItem("answers", JSON.stringify(userAnswers));
+
+    // الانتقال مباشرة لصفحة النتائج
+    window.location.href = "result.html";
+    return;
   }
+
+  showQuestion();
 }
 
 // ======== السؤال السابق ========
 function prevQuestion(){
   if(currentQuestion > 0){
     currentQuestion--;
-    progress -= 20;
+    progress -= 17;
     if(progress < 0) progress = 0;
     showQuestion();
   }
@@ -90,7 +97,9 @@ function prevQuestion(){
 
 // ======== تخطي السؤال ========
 function skipQuestion(){
-  progress += 20;
+  // حفظ إجابة "Skipped"
+  userAnswers[currentQuestion] = "Skipped";
+  progress += 17;
   if(progress > 100) progress = 100;
   nextQuestion();
 }
@@ -98,21 +107,6 @@ function skipQuestion(){
 // ======== ربط الأزرار ========
 backBtn.addEventListener("click", prevQuestion);
 skipBtn.addEventListener("click", skipQuestion);
-
-// ======== عرض النتائج ========
-function showResult(){
-  const container = document.querySelector(".container");
-  container.innerHTML = "<h1>Quiz Finished! Your Answers:</h1>";
-  const ul = document.createElement("ul");
-
-  questions.forEach((q, i) => {
-    const li = document.createElement("li");
-    li.textContent = `${q.question} → ${userAnswers[i] ? userAnswers[i] : "Skipped"}`;
-    ul.appendChild(li);
-  });
-
-  container.appendChild(ul);
-}
 
 // ======== بدء Quiz ========
 showQuestion();
