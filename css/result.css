@@ -1,3 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+ opacity: 0;
+  transform: translateX(60px) scale(0.98);
+  transition: all 0.35s cubic-bezier(0.77, 0, 0.175, 1);
+  will-change: transform, opacity; 
+
+}
+body.loaded {
+  opacity: 1;
+  transform: translateX(0) scale(1);
+}
+
+/* عند الخروج */
+body.slide-out {
+  opacity: 0;
+  transform: translateX(-80px) scale(0.98);
+}
 main .container {
     display: flex;
     flex-direction: column;
@@ -87,14 +106,30 @@ color: gray;
     color: gray;
     margin: 20px 30px 0 30px;
 }
+.info button{
+    display: inline-block;
+    color: red;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    margin: 30px 0 0 30px;
+   }
+   .info button:hover{
+    color: white;
+    transition: color 0.3s ease;
+   }
 .info a{
     display: inline-block;
     color: white;
     background-color: red;
     text-decoration: none;
     font-size: 16px;
-    font-family: "Roboto", sans-serif;
-    padding: 10px 20px;
+   font-family: "Bebas Neue", sans-serif ;
+   letter-spacing: 3px;
+    padding: 8px 20px;
     border-radius: 25px;
     margin: 30px 0 0 30px;
     transition: background 0.5s ease;
@@ -103,3 +138,74 @@ color: gray;
     background-color: white;
     color:red;
     }
+
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+.but button{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    font-family: "Bebas Neue", sans-serif ;
+}
+.but button:hover{
+    background-color: white;
+    color: red;
+    transition: background 0.5s ease;
+}
+.but a{
+    padding: 10px 20px;
+    background-color: transparent;
+    color: red;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 18px;
+    font-family: "Bebas Neue", sans-serif ;
+    text-decoration: none;
+}
+.but a:hover{
+    background-color: red;
+    color: black;
+    transition: background 0.5s ease;
+}
+
+
+
+footer {
+    background-color: #141414;
+    margin-top: 100px;
+}
+footer .container_footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 30px 20px;
+    align-items: center;
+}
+footer .container_footer h1{
+    color: red;
+    font-size: 20px;
+    font-family:"Momo Trust Display", sans-serif;
+} 
+footer .container_footer .home_link ul li{
+    list-style: none;
+}
+footer .container_footer .home_link a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+     transition: transform 0.3s ease;
+}
+footer .container_footer .home_link a:hover{
+    color: red;
+    transform: scale(1.1);
+    
+}

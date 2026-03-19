@@ -1,7 +1,7 @@
 [
-  {
+   {
     "title": "SAVING PRIVATE RYAN",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg",
     "genre": "Action",
     "theme": "War",
     "duration": "2 hr 49 min",
@@ -9,34 +9,34 @@
     "language": "English",
     "platform": "Netflix",
     "watchLink": "",
-    "rating":8.6,
-    "description": " During WWII, a squad is sent behind enemy lines to find and bring home Private Ryan, after his brothers are killed in action. Epic battle scenes, realistic combat depiction."
+    "rating": 8.6,
+    "description": "During WWII, a squad is sent behind enemy lines to find and bring home Private Ryan after his brothers are killed in action. Epic and realistic war scenes."
   },
   {
     "title": "1917",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "genre": "Action",
     "theme": "War",
-    "duration": " 1 hr 59 min",
+    "duration": "1 hr 59 min",
     "year": "2019",
     "language": "English",
     "platform": "Prime Video",
     "watchLink": "",
-    "rating":8.3 ,
-    "description": "Two soldiers are tasked with delivering a crucial message during WWI. Filmed as a single continuous shot with intense battlefield sequences."
+    "rating": 8.3,
+    "description": "Two soldiers are tasked with delivering a crucial message during WWI. Shot to look like one continuous take with intense action."
   },
   {
     "title": "APOCALYPSE NOW",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
     "genre": "Action",
     "theme": "War",
-    "duration": " 2 hr 27 min",
-    "year": "",
+    "duration": "2 hr 27 min",
+    "year": "1979",
     "language": "English",
     "platform": "HBO Max",
     "watchLink": "",
-    "rating":8.4 ,
-    "description": "A journey through the Vietnam War to assassinate a rogue colonel. Combines psychological tension with intense combat scenes and helicopter warfare."
+    "rating": 8.4,
+    "description": "A journey through the Vietnam War to assassinate a rogue colonel. Psychological and intense war storytelling."
   },
   
 
@@ -45,7 +45,7 @@
   {
     "title": "Top Gun: Maverick",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkNDMtMjc3NDA1YjNhZjY3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "genre": "Action, Drama",
+    "genre": "Action",
     "theme": "Military",
     "duration": "130 min",
     "year": "2022",
@@ -250,8 +250,1252 @@
     "watchLink": "https://www.justwatch.com/movie/kill-bill-vol-1",
     "rating": 8.2,
     "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her and attempted to murder her on her wedding day."
+  },
+
+
+
+
+
+  {
+    "title": "Se7en",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDM2NmItYzYzNy00Y2U5LWI3YTQtYzY1ZjY2ZWI0ZjQ1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Crime, Drama, Thriller",
+    "theme": "Crime",
+    "duration": "127 min",
+    "year": "1995",
+    "language": "English",
+    "platform": "Netflix / Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/se7en",
+    "rating": 8.6,
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives."
+  },
+  {
+    "title": "The Departed",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjU4NzQ5OF5BMl5BanBnXkFtZTcwODQzNTQzMw@@._V1_.jpg",
+    "genre": "Crime, Thriller",
+    "theme": "Crime",
+    "duration": "151 min",
+    "year": "2006",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-departed",
+    "rating": 8.5,
+    "description": "An undercover cop and a mole in the police try to identify each other while infiltrating an Irish gang."
+  },
+  {
+    "title": "Heat",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNjY2NjM3OV5BMl5BanBnXkFtZTgwMDY0NjE0MDE@._V1_.jpg",
+    "genre": "Crime, Drama, Thriller",
+    "theme": "Crime",
+    "duration": "170 min",
+    "year": "1995",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/heat",
+    "rating": 8.3,
+    "description": "A master thief and a relentless detective face off in a tense game of cat and mouse."
+  },
+
+
+  
+  {
+    "title": "Shutter Island",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZhY2ZlY2UtY2YzYS00ZmY2LTlhODQtYzQ2NjU0YzZlOTJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Mystery, Thriller",
+    "theme": "Mystery",
+    "duration": "138 min",
+    "year": "2010",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/shutter-island",
+    "rating": 8.2,
+    "description": "A U.S. Marshal investigates a disappearance at a mental facility on a remote island."
+  },
+  {
+    "title": "Prisoners",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTQyNjM5Nl5BMl5BanBnXkFtZTcwNTU3NjU3OQ@@._V1_.jpg",
+    "genre": "Crime, Drama, Mystery",
+    "theme": "Mystery",
+    "duration": "153 min",
+    "year": "2013",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/prisoners",
+    "rating": 8.1,
+    "description": "A desperate father takes matters into his own hands when his daughter goes missing."
+  },
+  {
+    "title": "Memento",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQwZGI3NTItYzYzNi00ZDI5LTg5MjItY2RhZmQ2Y2FjNjgxXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Mystery, Thriller",
+    "theme": "Mystery",
+    "duration": "113 min",
+    "year": "2000",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/memento",
+    "rating": 8.4,
+    "description": "A man with short-term memory loss attempts to track down his wife's killer."
+  },
+
+  {
+    "title": "Fight Club",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTYxZmUtYTAwMC00ZjQxLWFmNTEtODM1ZmRlYzRmN2Y1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Psychological",
+    "duration": "139 min",
+    "year": "1999",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/fight-club",
+    "rating": 8.8,
+    "description": "An insomniac office worker forms an underground fight club with a mysterious man."
+  },
+  {
+    "title": "Joker",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA0NjQ1ODctZjQxMi00N2FmLTg0NzItYzY3ZTIwYjA3ZjQxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Crime, Drama, Thriller",
+    "theme": "Psychological",
+    "duration": "122 min",
+    "year": "2019",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/joker",
+    "rating": 8.4,
+    "description": "A failed comedian descends into madness and becomes a symbol of chaos."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDM2NmItYzYzNy00Y2U5LWI3YTQtYzY1ZjY2ZWI0ZjQ1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Crime, Thriller",
+    "theme": "Psychological",
+    "duration": "118 min",
+    "year": "1991",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-silence-of-the-lambs",
+    "rating": 8.6,
+    "description": "A young FBI agent seeks the help of a brilliant but dangerous cannibal killer."
+  },
+
+  
+  {
+    "title": "The Dark Knight",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "genre": "Action, Crime, Drama",
+    "theme": "Political",
+    "duration": "152 min",
+    "year": "2008",
+    "language": "English",
+    "platform": "Max",
+    "watchLink": "https://www.justwatch.com/movie/the-dark-knight",
+    "rating": 9.0,
+    "description": "Batman faces moral dilemmas and chaos as Gotham descends into anarchy."
+  },
+  {
+    "title": "V for Vendetta",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDItNmM3Mi00ZjM2LTg2Y2UtZmJjNTI3OTU4NzFiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Action, Drama, Thriller",
+    "theme": "Political",
+    "duration": "132 min",
+    "year": "2005",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/v-for-vendetta",
+    "rating": 8.2,
+    "description": "A masked vigilante fights against a totalitarian regime."
+  },
+  {
+    "title": "Spotlight",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTgxNjc2Nl5BMl5BanBnXkFtZTgwNzM5NTQxNzE@._V1_.jpg",
+    "genre": "Crime, Drama, Thriller",
+    "theme": "Political",
+    "duration": "129 min",
+    "year": "2015",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/spotlight",
+    "rating": 8.1,
+    "description": "Journalists uncover a massive scandal involving the Catholic Church."
+  },
+
+  
+  {
+    "title": "The Revenant",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0Njc2NjQyOF5BMl5BanBnXkFtZTgwNDYwNjk3NzE@._V1_.jpg",
+    "genre": "Adventure, Drama, Thriller",
+    "theme": "Survival",
+    "duration": "156 min",
+    "year": "2015",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/the-revenant",
+    "rating": 8.0,
+    "description": "A frontiersman fights for survival after being left for dead."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTY0NzQ3MF5BMl5BanBnXkFtZTgwNzY0MTY2NTE@._V1_.jpg",
+    "genre": "Action, Adventure, Thriller",
+    "theme": "Survival",
+    "duration": "120 min",
+    "year": "2015",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/mad-max-fury-road",
+    "rating": 8.1,
+    "description": "In a post-apocalyptic world, survivors flee across the desert in a high-speed chase."
+  },
+  {
+    "title": "Logan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjI2NzQ3OF5BMl5BanBnXkFtZTgwODc1NjY1MDI@._V1_.jpg",
+    "genre": "Action, Drama, Thriller",
+    "theme": "Survival",
+    "duration": "137 min",
+    "year": "2017",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/logan",
+    "rating": 8.1,
+    "description": "An aging Wolverine protects a young mutant in a harsh world."
+  },
+
+
+  {
+    "title": "Inception",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTYxZmUtYTAwMC00ZjQxLWFmNTEtODM1ZmRlYzRmN2Y1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genre": "Action, Sci-Fi, Thriller",
+    "theme": "Conspiracy",
+    "duration": "148 min",
+    "year": "2010",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/inception",
+    "rating": 8.8,
+    "description": "A thief enters dreams to steal secrets and uncover deeper conspiracies."
+  },
+  {
+    "title": "The Prestige",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTY3NzI5OF5BMl5BanBnXkFtZTcwODkzNDkzMw@@._V1_.jpg",
+    "genre": "Drama, Mystery, Thriller",
+    "theme": "Conspiracy",
+    "duration": "130 min",
+    "year": "2006",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-prestige",
+    "rating": 8.5,
+    "description": "Two rival magicians engage in a deadly battle of secrets and obsession."
+  },
+  {
+    "title": "Shutter Island",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZhY2ZlY2UtY2YzYS00ZmY2LTlhODQtYzQ2NjU0YzZlOTJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Mystery, Thriller",
+    "theme": "Conspiracy",
+    "duration": "138 min",
+    "year": "2010",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/shutter-island",
+    "rating": 8.2,
+    "description": "A U.S. Marshal uncovers disturbing secrets at a remote psychiatric facility."
+  },
+
+
+
+
+  
+  {
+    "title": "The Notebook",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjM2NTM2Nl5BMl5BanBnXkFtZTcwODU0OTQzMw@@._V1_.jpg",
+    "genre": "Drama, Romance",
+    "theme": "Romance",
+    "duration": "123 min",
+    "year": "2004",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-notebook",
+    "rating": 7.8,
+    "description": "A young couple fall in love in the 1940s, but their relationship is tested by class differences and time."
+  },
+  {
+    "title": "La La Land",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjM3NjQyNl5BMl5BanBnXkFtZTgwNTQ3NTQ3NjM@._V1_.jpg",
+    "genre": "Drama, Romance",
+    "theme": "Romance",
+    "duration": "128 min",
+    "year": "2016",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/la-la-land",
+    "rating": 8.0,
+    "description": "A jazz musician and an aspiring actress fall in love while pursuing their dreams."
+  },
+  {
+    "title": "Before Sunrise",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNzg2NTM2Nl5BMl5BanBnXkFtZTcwODAxNTY0NA@@._V1_.jpg",
+    "genre": "Drama, Romance",
+    "theme": "Romance",
+    "duration": "101 min",
+    "year": "1995",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/before-sunrise",
+    "rating": 8.1,
+    "description": "Two strangers meet on a train and spend one unforgettable night together in Vienna."
+  },
+
+  {
+    "title": "The Pursuit of Happyness",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MzU5NjM3Ml5BMl5BanBnXkFtZTcwNTU5NTYxMQ@@._V1_.jpg",
+    "genre": "Drama, Family",
+    "theme": "Family",
+    "duration": "117 min",
+    "year": "2006",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-pursuit-of-happyness",
+    "rating": 8.0,
+    "description": "A struggling father fights to build a better life for himself and his son."
+  },
+  {
+    "title": "Life Is Beautiful",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MzYzNTI3NF5BMl5BanBnXkFtZTcwNTU1MzEzMw@@._V1_.jpg",
+    "genre": "Drama, Family",
+    "theme": "Family",
+    "duration": "116 min",
+    "year": "1997",
+    "language": "Italian",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/life-is-beautiful",
+    "rating": 8.6,
+    "description": "A father uses humor to protect his son during the horrors of war."
+  },
+  {
+    "title": "Coco",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NzYyMjA3Ml5BMl5BanBnXkFtZTgwODUxNzE0MzI@._V1_.jpg",
+    "genre": "Animation, Drama, Family",
+    "theme": "Family",
+    "duration": "105 min",
+    "year": "2017",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/coco",
+    "rating": 8.4,
+    "description": "A young boy journeys into the Land of the Dead to discover his family's history."
+  },
+
+
+  {
+    "title": "The Intouchables",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMjU4NjU0Nl5BMl5BanBnXkFtZTcwNjUyMzM3OA@@._V1_.jpg",
+    "genre": "Drama, Comedy",
+    "theme": "Friendship",
+    "duration": "112 min",
+    "year": "2011",
+    "language": "French",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-intouchables",
+    "rating": 8.5,
+    "description": "An unlikely friendship develops between a wealthy quadriplegic and his caregiver."
+  },
+  {
+    "title": "Good Will Hunting",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTQ4MTc5NF5BMl5BanBnXkFtZTcwOTI5NTYxMQ@@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Friendship",
+    "duration": "126 min",
+    "year": "1997",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/good-will-hunting",
+    "rating": 8.3,
+    "description": "A genius janitor forms a life-changing bond with a therapist."
+  },
+  {
+    "title": "Stand by Me",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzQ1MzM0OF5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Friendship",
+    "duration": "89 min",
+    "year": "1986",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/stand-by-me",
+    "rating": 8.1,
+    "description": "Four boys go on a journey that strengthens their friendship forever."
+  },
+
+
+  {
+    "title": "Forrest Gump",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODk3YzktNzE1ZC00ZDI5LWFjNjItYzMzODFmY2Q3OTU4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Life Struggles",
+    "duration": "142 min",
+    "year": "1994",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/forrest-gump",
+    "rating": 8.8,
+    "description": "A simple man lives an extraordinary life through historical events."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmRhMC00ZDIzLTg2NTEtODM1ZmRlYzRmN2Y1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Life Struggles",
+    "duration": "142 min",
+    "year": "1994",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-shawshank-redemption",
+    "rating": 9.3,
+    "description": "Two imprisoned men bond over years, finding hope and redemption."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI5ZWFmZTItY2Y3Zi00ZDM5LTg0NzItYzY3ZTIwYjA3ZjQxXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Drama, Biography",
+    "theme": "Life Struggles",
+    "duration": "135 min",
+    "year": "2001",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/a-beautiful-mind",
+    "rating": 8.2,
+    "description": "A brilliant mathematician struggles with mental illness and reality."
+  },
+
+  
+  {
+    "title": "Rocky",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjU3NzYwMF5BMl5BanBnXkFtZTgwNTU1NjE0MDE@._V1_.jpg",
+    "genre": "Drama, Sport",
+    "theme": "Sport",
+    "duration": "120 min",
+    "year": "1976",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/rocky",
+    "rating": 8.1,
+    "description": "An underdog boxer gets a once-in-a-lifetime shot at the heavyweight title."
+  },
+  {
+    "title": "Raging Bull",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVkODQyYzQtYzY1ZS00YzZlLTg2ZjAtN2E2ZDU2YjE2Y2I2XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Drama, Sport",
+    "theme": "Sport",
+    "duration": "129 min",
+    "year": "1980",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/raging-bull",
+    "rating": 8.2,
+    "description": "The life of a boxer whose rage affects his career and relationships."
+  },
+  {
+    "title": "Million Dollar Baby",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNTU4NzYyNl5BMl5BanBnXkFtZTcwNTI1NzYzMw@@._V1_.jpg",
+    "genre": "Drama, Sport",
+    "theme": "Sport",
+    "duration": "132 min",
+    "year": "2004",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/million-dollar-baby",
+    "rating": 8.1,
+    "description": "A determined woman trains to become a professional boxer."
+  },
+
+
+  {
+    "title": "Schindler's List",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmRhMC00ZDIzLTg2NTEtODM1ZmRlYzRmN2Y1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Biography, Drama",
+    "theme": "Biography",
+    "duration": "195 min",
+    "year": "1993",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/schindlers-list",
+    "rating": 9.0,
+    "description": "A businessman saves the lives of Jews during the Holocaust."
+  },
+  {
+    "title": "The Pianist",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genre": "Biography, Drama",
+    "theme": "Biography",
+    "duration": "150 min",
+    "year": "2002",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-pianist",
+    "rating": 8.5,
+    "description": "A Jewish pianist struggles to survive during World War II."
+  },
+  {
+    "title": "Catch Me If You Can",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NTkzOTYxNl5BMl5BanBnXkFtZTcwNjI3NjQ3Mw@@._V1_.jpg",
+    "genre": "Biography, Crime, Drama",
+    "theme": "Biography",
+    "duration": "141 min",
+    "year": "2002",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/catch-me-if-you-can",
+    "rating": 8.1,
+    "description": "A young con artist successfully impersonates multiple professionals while being pursued by the FBI."
+  },
+
+
+
+
+  
+  {
+    "title": "Amélie",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MzU0NDU0Nl5BMl5BanBnXkFtZTcwODU0NTQzMw@@._V1_.jpg",
+    "genre": "Comedy, Romance",
+    "theme": "Romantic Comedy",
+    "duration": "122 min",
+    "year": "2001",
+    "language": "French",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/amelie",
+    "rating": 8.3,
+    "description": "A shy Parisian waitress decides to change the lives of those around her while discovering love."
+  },
+  {
+    "title": "Before Sunset",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNjg1Nzg2Nl5BMl5BanBnXkFtZTcwODg3Njc0NA@@._V1_.jpg",
+    "genre": "Comedy, Drama, Romance",
+    "theme": "Romantic Comedy",
+    "duration": "80 min",
+    "year": "2004",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/before-sunset",
+    "rating": 8.1,
+    "description": "Nine years after their first meeting, two lovers reunite in Paris and explore what could have been."
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MzQzNjY3Nl5BMl5BanBnXkFtZTcwNzYzNzA2OA@@._V1_.jpg",
+    "genre": "Comedy, Drama, Romance",
+    "theme": "Romantic Comedy",
+    "duration": "122 min",
+    "year": "2012",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/silver-linings-playbook",
+    "rating": 7.7,
+    "description": "Two people with emotional struggles form an unexpected romantic bond."
+  },
+
+  
+  {
+    "title": "Mean Girls",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDQyNDY0Ml5BMl5BanBnXkFtZTcwODg0NTQzMw@@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Teen Comedy",
+    "duration": "97 min",
+    "year": "2004",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/mean-girls",
+    "rating": 7.1,
+    "description": "A teenager navigates the social hierarchy of high school."
+  },
+  {
+    "title": "Superbad",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNjc1NjA0OF5BMl5BanBnXkFtZTcwMjkzMzEzMw@@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Teen Comedy",
+    "duration": "113 min",
+    "year": "2007",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/superbad",
+    "rating": 7.6,
+    "description": "Two high school friends try to enjoy one last wild night before graduation."
+  },
+  {
+    "title": "The Breakfast Club",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy, Drama",
+    "theme": "Teen Comedy",
+    "duration": "97 min",
+    "year": "1985",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-breakfast-club",
+    "rating": 7.8,
+    "description": "Five students from different backgrounds bond during a Saturday detention."
+  },
+
+
+  {
+    "title": "Parasite",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWE4N2Y3YzktZWMzYi00ZjJkLWFmZTQtYzFkZDIyZGUxYzY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genre": "Comedy, Drama, Thriller",
+    "theme": "Dark Comedy",
+    "duration": "132 min",
+    "year": "2019",
+    "language": "Korean",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/parasite",
+    "rating": 8.5,
+    "description": "A poor family schemes to infiltrate a wealthy household, leading to unexpected consequences."
+  },
+  {
+    "title": "Dr. Strangelove",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5OTQzNzY0MF5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Dark Comedy",
+    "duration": "95 min",
+    "year": "1964",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/dr-strangelove",
+    "rating": 8.4,
+    "description": "A satirical look at nuclear war fears during the Cold War."
+  },
+  {
+    "title": "Fargo",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTQ0NjYzMl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Crime, Drama",
+    "theme": "Dark Comedy",
+    "duration": "98 min",
+    "year": "1996",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/fargo",
+    "rating": 8.1,
+    "description": "A crime gone wrong leads to a series of darkly humorous events."
+  },
+
+  {
+    "title": "The Big Lebowski",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3OTM0NTg3Nl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy, Crime",
+    "theme": "Buddy Comedy",
+    "duration": "117 min",
+    "year": "1998",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-big-lebowski",
+    "rating": 8.1,
+    "description": "An easygoing man gets caught in a case of mistaken identity."
+  },
+  {
+    "title": "Rush Hour",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTYyNjE5Nl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Action, Comedy",
+    "theme": "Buddy Comedy",
+    "duration": "98 min",
+    "year": "1998",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/rush-hour",
+    "rating": 7.0,
+    "description": "A mismatched pair of cops team up to solve a kidnapping case."
+  },
+  {
+    "title": "Midnight Run",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODg0NTQzMw@@._V1_.jpg",
+    "genre": "Comedy, Crime",
+    "theme": "Buddy Comedy",
+    "duration": "126 min",
+    "year": "1988",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/midnight-run",
+    "rating": 7.5,
+    "description": "A bounty hunter and his captive form an unlikely bond on a cross-country trip."
+  },
+
+
+  {
+    "title": "Dr. Strangelove",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5OTQzNzY0MF5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Satire",
+    "duration": "95 min",
+    "year": "1964",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/dr-strangelove",
+    "rating": 8.4,
+    "description": "A dark satire about nuclear war and political paranoia."
+  },
+  {
+    "title": "The Great Dictator",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MTU0MjE0MF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy, Drama",
+    "theme": "Satire",
+    "duration": "125 min",
+    "year": "1940",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-great-dictator",
+    "rating": 8.4,
+    "description": "A Jewish barber is mistaken for a dictator in a satirical story."
+  },
+  {
+    "title": "Network",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Drama",
+    "theme": "Satire",
+    "duration": "121 min",
+    "year": "1976",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/network",
+    "rating": 8.1,
+    "description": "A television network exploits a mentally unstable news anchor for ratings."
+  },
+
+  
+  {
+    "title": "Monty Python and the Holy Grail",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NjI2NzQ2Ml5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Parody",
+    "duration": "91 min",
+    "year": "1975",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/monty-python-and-the-holy-grail",
+    "rating": 8.2,
+    "description": "A hilarious parody of the legend of King Arthur and his knights."
+  },
+  {
+    "title": "Airplane!",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTQ0NjYzMl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Parody",
+    "duration": "88 min",
+    "year": "1980",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/airplane",
+    "rating": 7.7,
+    "description": "A spoof disaster film filled with absurd humor and nonstop jokes."
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Comedy",
+    "theme": "Parody",
+    "duration": "82 min",
+    "year": "1984",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/this-is-spinal-tap",
+    "rating": 7.9,
+    "description": "A mockumentary about a fictional rock band and their chaotic tour."
+  },
+
+
+
+
+
+
+  
+  {
+    "title": "The Shining",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Horror, Drama",
+    "theme": "Supernatural",
+    "duration": "146 min",
+    "year": "1980",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-shining",
+    "rating": 8.4,
+    "description": "A family heads to an isolated hotel where a sinister presence drives the father into madness."
+  },
+  {
+    "title": "The Sixth Sense",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NTU2NjM4Nl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Thriller",
+    "theme": "Supernatural",
+    "duration": "107 min",
+    "year": "1999",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/the-sixth-sense",
+    "rating": 8.2,
+    "description": "A boy who can see ghosts seeks help from a troubled psychologist."
+  },
+  {
+    "title": "The Others",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Mystery",
+    "theme": "Supernatural",
+    "duration": "101 min",
+    "year": "2001",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-others",
+    "rating": 7.6,
+    "description": "A woman becomes convinced her house is haunted while protecting her children."
+  },
+
+  
+  {
+    "title": "Get Out",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Thriller",
+    "theme": "Psychological Horror",
+    "duration": "104 min",
+    "year": "2017",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/get-out",
+    "rating": 7.7,
+    "description": "A young man uncovers disturbing secrets when visiting his girlfriend's family."
+  },
+  {
+    "title": "Black Swan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Drama, Thriller",
+    "theme": "Psychological Horror",
+    "duration": "108 min",
+    "year": "2010",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/black-swan",
+    "rating": 8.0,
+    "description": "A ballerina's obsession with perfection leads to psychological breakdown."
+  },
+  {
+    "title": "Rosemary's Baby",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Psychological Horror",
+    "duration": "137 min",
+    "year": "1968",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/rosemarys-baby",
+    "rating": 8.0,
+    "description": "A pregnant woman suspects a dark conspiracy surrounding her unborn child."
+  },
+
+  
+  {
+    "title": "Psycho",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Thriller",
+    "theme": "Slasher",
+    "duration": "109 min",
+    "year": "1960",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/psycho",
+    "rating": 8.5,
+    "description": "A secretary on the run checks into a motel run by a disturbed young man."
+  },
+  {
+    "title": "Halloween",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Njc0NjY3OF5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Slasher",
+    "duration": "91 min",
+    "year": "1978",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/halloween",
+    "rating": 7.7,
+    "description": "A masked killer returns to his hometown to terrorize babysitters."
+  },
+  {
+    "title": "Scream",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Mystery",
+    "theme": "Slasher",
+    "duration": "111 min",
+    "year": "1996",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/scream",
+    "rating": 7.4,
+    "description": "A killer targets teenagers using horror movie tropes."
+  },
+
+  
+  {
+    "title": "Train to Busan",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTgwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Action",
+    "theme": "Zombie",
+    "duration": "118 min",
+    "year": "2016",
+    "language": "Korean",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/train-to-busan",
+    "rating": 7.6,
+    "description": "Passengers fight to survive a zombie outbreak on a speeding train."
+  },
+  {
+    "title": "28 Days Later",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Sci-Fi",
+    "theme": "Zombie",
+    "duration": "113 min",
+    "year": "2002",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/28-days-later",
+    "rating": 7.6,
+    "description": "A man wakes up in a deserted London after a virus outbreak turns people into rage-filled killers."
+  },
+  {
+    "title": "Night of the Living Dead",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Zombie",
+    "duration": "96 min",
+    "year": "1968",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/night-of-the-living-dead",
+    "rating": 7.8,
+    "description": "A group of people try to survive as the dead come back to life."
+  },
+
+  
+  {
+    "title": "The Exorcist",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Demon Possession",
+    "duration": "122 min",
+    "year": "1973",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-exorcist",
+    "rating": 8.1,
+    "description": "A young girl becomes possessed, and two priests attempt to save her."
+  },
+  {
+    "title": "The Conjuring",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Demon Possession",
+    "duration": "112 min",
+    "year": "2013",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-conjuring",
+    "rating": 7.5,
+    "description": "Paranormal investigators help a family terrorized by a dark presence."
+  },
+  {
+    "title": "Hereditary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Demon Possession",
+    "duration": "127 min",
+    "year": "2018",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/hereditary",
+    "rating": 7.3,
+    "description": "A family is haunted by dark secrets after the death of their grandmother."
+  },
+
+  
+  {
+    "title": "Alien",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Sci-Fi",
+    "theme": "Monster",
+    "duration": "117 min",
+    "year": "1979",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/alien",
+    "rating": 8.5,
+    "description": "A deadly alien creature hunts a spaceship crew."
+  },
+  {
+    "title": "The Thing",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror",
+    "theme": "Monster",
+    "duration": "109 min",
+    "year": "1982",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/the-thing",
+    "rating": 8.2,
+    "description": "A shape-shifting alien terrorizes a group of researchers in Antarctica."
+  },
+  {
+    "title": "Jaws",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Horror, Thriller",
+    "theme": "Monster",
+    "duration": "124 min",
+    "year": "1975",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/jaws",
+    "rating": 8.1,
+    "description": "A giant shark terrorizes a seaside town."
+  },
+
+   
+
+
+
+
+  
+  {
+    "title": "Interstellar",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNzA3Ml5BMl5BanBnXkFtZTgwNzUxNjQ3MzE@._V1_.jpg",
+    "genre": "Sci-Fi, Drama",
+    "theme": "Space",
+    "duration": "169 min",
+    "year": "2014",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/interstellar",
+    "rating": 8.7,
+    "description": "A team travels through a wormhole in space to save humanity."
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi",
+    "theme": "Space",
+    "duration": "149 min",
+    "year": "1968",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/2001-a-space-odyssey",
+    "rating": 8.3,
+    "description": "A mysterious monolith influences human evolution and space exploration."
+  },
+  {
+    "title": "Gravity",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Thriller",
+    "theme": "Space",
+    "duration": "91 min",
+    "year": "2013",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/gravity",
+    "rating": 7.7,
+    "description": "Astronauts struggle to survive after a disaster in space."
+  },
+
+  
+  {
+    "title": "Alien",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Horror",
+    "theme": "Aliens",
+    "duration": "117 min",
+    "year": "1979",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/alien",
+    "rating": 8.5,
+    "description": "A deadly alien creature hunts a spaceship crew."
+  },
+  {
+    "title": "Aliens",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Action",
+    "theme": "Aliens",
+    "duration": "137 min",
+    "year": "1986",
+    "language": "English",
+    "platform": "Disney+",
+    "watchLink": "https://www.justwatch.com/movie/aliens",
+    "rating": 8.4,
+    "description": "A team of marines battles deadly extraterrestrials."
+  },
+  {
+    "title": "Arrival",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Drama",
+    "theme": "Aliens",
+    "duration": "116 min",
+    "year": "2016",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/arrival",
+    "rating": 7.9,
+    "description": "A linguist communicates with alien visitors to prevent global conflict."
+  },
+
+  
+  {
+    "title": "The Matrix",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Sci-Fi, Action",
+    "theme": "Artificial Intelligence",
+    "duration": "136 min",
+    "year": "1999",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-matrix",
+    "rating": 8.7,
+    "description": "A hacker discovers reality is a simulation controlled by machines."
+  },
+  {
+    "title": "Ex Machina",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Drama",
+    "theme": "Artificial Intelligence",
+    "duration": "108 min",
+    "year": "2014",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/ex-machina",
+    "rating": 7.7,
+    "description": "A programmer tests the consciousness of a humanoid AI."
+  },
+  {
+    "title": "Blade Runner",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi",
+    "theme": "Artificial Intelligence",
+    "duration": "117 min",
+    "year": "1982",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/blade-runner",
+    "rating": 8.1,
+    "description": "A blade runner hunts down rogue replicants in a dystopian future."
+  },
+
+  
+  {
+    "title": "Inception",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Action",
+    "theme": "Time Travel",
+    "duration": "148 min",
+    "year": "2010",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/inception",
+    "rating": 8.8,
+    "description": "A thief enters dreams to steal secrets and manipulate reality."
+  },
+  {
+    "title": "Back to the Future",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Comedy",
+    "theme": "Time Travel",
+    "duration": "116 min",
+    "year": "1985",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/back-to-the-future",
+    "rating": 8.5,
+    "description": "A teenager travels back in time and must fix the timeline."
+  },
+  {
+    "title": "12 Monkeys",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Thriller",
+    "theme": "Time Travel",
+    "duration": "129 min",
+    "year": "1995",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/12-monkeys",
+    "rating": 8.0,
+    "description": "A prisoner travels through time to stop a deadly virus."
+  },
+
+  
+  {
+    "title": "Children of Men",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Drama",
+    "theme": "Dystopia",
+    "duration": "109 min",
+    "year": "2006",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/children-of-men",
+    "rating": 7.9,
+    "description": "In a future where humans can't reproduce, one woman may hold the key to survival."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi",
+    "theme": "Dystopia",
+    "duration": "164 min",
+    "year": "2017",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/blade-runner-2049",
+    "rating": 8.0,
+    "description": "A blade runner uncovers a secret that could change society."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Action",
+    "theme": "Dystopia",
+    "duration": "120 min",
+    "year": "2015",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/mad-max-fury-road",
+    "rating": 8.1,
+    "description": "In a post-apocalyptic wasteland, survivors fight for freedom."
+  },
+
+  
+  {
+    "title": "Blade Runner",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi",
+    "theme": "Cyberpunk",
+    "duration": "117 min",
+    "year": "1982",
+    "language": "English",
+    "platform": "Prime Video",
+    "watchLink": "https://www.justwatch.com/movie/blade-runner",
+    "rating": 8.1,
+    "description": "A detective hunts bioengineered beings in a futuristic city."
+  },
+  {
+    "title": "The Matrix",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genre": "Sci-Fi, Action",
+    "theme": "Cyberpunk",
+    "duration": "136 min",
+    "year": "1999",
+    "language": "English",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/the-matrix",
+    "rating": 8.7,
+    "description": "A hacker discovers the truth about simulated reality."
+  },
+  {
+    "title": "Ghost in the Shell",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ0NjczNl5BMl5BanBnXkFtZTcwODk2NzU2MDE@._V1_.jpg",
+    "genre": "Sci-Fi, Animation",
+    "theme": "Cyberpunk",
+    "duration": "83 min",
+    "year": "1995",
+    "language": "Japanese",
+    "platform": "Netflix",
+    "watchLink": "https://www.justwatch.com/movie/ghost-in-the-shell",
+    "rating": 8.0,
+    "description": "A cyborg agent hunts a mysterious hacker in a futuristic world."
   }
-
-
-
 ]

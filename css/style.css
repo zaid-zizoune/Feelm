@@ -5,13 +5,23 @@ box-sizing: border-box;
 font-family: sans-serif;
 }
 body{
-   background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
  opacity: 0;
-    transition: opacity 0.1s ease;
+  transform: translateX(60px) scale(0.98);
+  transition: all 0.35s cubic-bezier(0.77, 0, 0.175, 1);
+  will-change: transform, opacity; 
+
 }
 body.loaded {
-    opacity: 1;
+  opacity: 1;
+  transform: translateX(0) scale(1);
+}
+
+/* عند الخروج */
+body.slide-out {
+  opacity: 0;
+  transform: translateX(-80px) scale(0.98);
 }
 header {
     background-color: transparent;
@@ -113,10 +123,23 @@ main .container .main P{
     gap: 30px;
 margin-top: 40px ;
 }
- .home_button a{
+ .home_button .start_btn {
 color: white;
 background-color: red;
 text-decoration: none;
+text-align: center;
+align-items: center;
+font-size: 26px;
+font-family: "Bebas Neue", sans-serif;
+border-radius: 25px;
+padding: 10px 25px;
+transition: background 0.5s ease;
+}
+ .home_button .about_btn {
+    color: red;
+    background-color: transparent;
+        border: 2px solid red;
+        text-decoration: none;
 text-align: center;
 align-items: center;
 font-size: 22px;
@@ -125,9 +148,13 @@ border-radius: 25px;
 padding: 10px 25px;
 transition: background 0.5s ease;
 }
- .home_button a:hover{
+ .home_button .start_btn:hover{
     background-color: white;
     color:red;
+    }
+    .home_button .about_btn:hover{
+        background-color: red;
+        color: black;
     }
 main .container .home_image{
     position: relative;
