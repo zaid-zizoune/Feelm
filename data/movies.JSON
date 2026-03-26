@@ -1,5 +1,6 @@
 [
-   {
+  
+  {
     "title": "SAVING PRIVATE RYAN",
     "poster": "https://image.tmdb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg",
     "genre": "Action",
@@ -38,13 +39,9 @@
     "rating": 8.4,
     "description": "A journey through the Vietnam War to assassinate a rogue colonel. Psychological and intense war storytelling."
   },
-  
-
-
-
   {
     "title": "Top Gun: Maverick",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkNDMtMjc3NDA1YjNhZjY3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
     "genre": "Action",
     "theme": "Military",
     "duration": "130 min",
@@ -53,12 +50,12 @@
     "platform": "Prime Video",
     "watchLink": "https://www.justwatch.com/movie/top-gun-maverick",
     "rating": 8.3,
-    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a highly dangerous mission."
+    "description": "After thirty years, Maverick returns to train elite pilots for a dangerous mission."
   },
   {
     "title": "Lone Survivor",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NjUzNTk5M15BMl5BanBnXkFtZTgwNTU1MDk2MDE@._V1_.jpg",
-    "genre": "Action, Biography, Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/bwNn7dJJQZQqg3n1v1a8mK6s8jT.jpg",
+    "genre": "Action",
     "theme": "Military",
     "duration": "121 min",
     "year": "2013",
@@ -66,12 +63,12 @@
     "platform": "Netflix",
     "watchLink": "https://www.justwatch.com/movie/lone-survivor",
     "rating": 7.5,
-    "description": "Marcus Luttrell and his Navy SEAL team are left to fight for their lives in the mountains of Afghanistan after a covert mission to capture a Taliban leader goes terribly wrong."
+    "description": "A Navy SEAL team fights for survival after a mission goes wrong in Afghanistan."
   },
   {
     "title": "The Hunt for Red October",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMzA1NDUyNTheQTJeQWpwZ15BbWU4MDcwMjg4MTEx._V1_.jpg",
-    "genre": "Action, Adventure, Thriller",
+    "poster": "https://image.tmdb.org/t/p/w500/2kF6rDsp6Q3c3gH9h4fFQhP3l9P.jpg",
+    "genre": "Action",
     "theme": "Military",
     "duration": "135 min",
     "year": "1990",
@@ -79,15 +76,11 @@
     "platform": "Prime Video",
     "watchLink": "https://www.justwatch.com/movie/the-hunt-for-red-october",
     "rating": 7.5,
-    "description": "In November 1984, the Soviet Union's best submarine captain violates orders and heads for the U.S. in a stealth sub. A CIA analyst must prove he is trying to defect, not start a war."
+    "description": "A Soviet submarine captain heads to the U.S., and a CIA analyst must uncover his true intent."
   },
-
-
-
-  
   {
     "title": "Casino Royale",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhZi00NWFiLThlZTctNjMwZjIzOTMzYzViXkEyXkFqcGdeQXVyMDQxNDEzMw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/n80wHUKOPEKlaA7pE2QjW3226aK.jpg",
     "genre": "Action, Adventure, Thriller",
     "theme": "Spy",
     "duration": "144 min",
@@ -100,7 +93,7 @@
   },
   {
     "title": "The Bourne Ultimatum",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtODM5OS00OUUzLTg5YTUtNDMwMTE2M2IyMzBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3oNq8Xh3Z541I40tQhTjL8Qn155.jpg",
     "genre": "Action, Mystery, Thriller",
     "theme": "Spy",
     "duration": "115 min",
@@ -113,7 +106,7 @@
   },
   {
     "title": "Mission: Impossible - Fallout",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/AkJQpZp9XIIRqKJQNAe2I1A3AOh.jpg",
     "genre": "Action, Adventure, Thriller",
     "theme": "Spy",
     "duration": "147 min",
@@ -124,12 +117,9 @@
     "rating": 7.7,
     "description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission goes wrong to prevent a global nuclear attack."
   },
-
-
-
   {
     "title": "The Dark Knight",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "genre": "Action, Crime, Drama",
     "theme": "Superhero",
     "duration": "152 min",
@@ -142,7 +132,7 @@
   },
   {
     "title": "Avengers: Infinity War",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "genre": "Action, Adventure, Sci-Fi",
     "theme": "Superhero",
     "duration": "149 min",
@@ -155,7 +145,7 @@
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
     "genre": "Animation, Action, Adventure",
     "theme": "Superhero",
     "duration": "117 min",
@@ -166,13 +156,9 @@
     "rating": 8.4,
     "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
   },
-
-
-
-  
   {
     "title": "The Matrix",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
     "genre": "Action, Sci-Fi",
     "theme": "Martial Arts",
     "duration": "136 min",
@@ -185,7 +171,7 @@
   },
   {
     "title": "Ip Man",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTQ5NV5BMl5BanBnXkFtZTcwMzk0ODk3Mw@@._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/y2ZNsdrKzgAOFH2l7pBvOaMhEks.jpg",
     "genre": "Action, Biography, Drama",
     "theme": "Martial Arts",
     "duration": "106 min",
@@ -198,7 +184,7 @@
   },
   {
     "title": "The Raid: Redemption",
-    "poster": "https://m.media-amazon.com/images/M/MV5MDA4ODkwNDYtNjA2Mi00ZTEyLWE2MDYtNTMyNDIyMTM0YjM1XkEyXkFqcGdeQXVyMTA0MTE1MzMy._V1_.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rtnZq2x2g0P0w5Y4G1xI772hQ41.jpg",
     "genre": "Action, Crime, Thriller",
     "theme": "Martial Arts",
     "duration": "101 min",

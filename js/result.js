@@ -8,9 +8,9 @@ fetch("data/movies.json")
   .then(res => res.json())
   .then(movies => {
 
-    // فلترة حسب genre و theme
+    // ✅ فلترة صحيحة
     filteredMovies = movies.filter(movie =>
-      movie.genre === answers[0] &&
+      movie.genre.includes(answers[0]) &&
       movie.theme === answers[1]
     );
 
@@ -19,12 +19,11 @@ fetch("data/movies.json")
       return;
     }
 
-    // عرض أول فيلم عشوائي
     showRandomMovie();
   });
 
 
-// ===== دالة عرض فيلم =====
+// ===== عرض الفيلم =====
 function displayMovie(movie) {
   const posterImg = document.querySelector(".ruselt .poster img");
   const titleEl = document.querySelector(".ruselt .info h2");
@@ -36,6 +35,12 @@ function displayMovie(movie) {
 
   posterImg.src = movie.poster;
   posterImg.alt = movie.title;
+
+  // fallback image 🔥
+  posterImg.onerror = () => {
+    posterImg.src = "img/default.jpg";
+  };
+
   titleEl.textContent = movie.title;
   genreEl.textContent = `${movie.genre} | ${movie.theme}`;
   calendarEl.innerHTML = `<i class="fa-regular fa-calendar"></i> ${movie.year}`;
@@ -45,25 +50,19 @@ function displayMovie(movie) {
 }
 
 
-// ===== اختيار فيلم عشوائي =====
+// ===== اختيار فيلم عشوائي بدون تكرار =====
 function showRandomMovie() {
-  currentIndex = Math.floor(Math.random() * filteredMovies.length);
-  const movie = filteredMovies[currentIndex];
-  displayMovie(movie);
+  let newIndex;
+
+  do {
+    newIndex = Math.floor(Math.random() * filteredMovies.length);
+  } while (newIndex === currentIndex && filteredMovies.length > 1);
+
+  currentIndex = newIndex;
+  displayMovie(filteredMovies[currentIndex]);
 }
 
 
-// ===== زر Already Watched =====
-const rotateBtn = document.querySelector(".rotate");
-
-rotateBtn.addEventListener("click", () => {
-  showRandomMovie();
-});
-
-
-// ===== زر New Recommendation =====
-const newBtn = document.querySelector(".but button");
-
-newBtn.addEventListener("click", () => {
-  showRandomMovie();
-});
+// ===== الأزرار =====
+document.querySelector(".rotate").addEventListener("click", showRandomMovie);
+document.querySelector(".but button").addEventListener("click", showRandomMovie);
